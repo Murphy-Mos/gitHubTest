@@ -18,6 +18,13 @@ class ViewController: UIViewController {
         print(12 + 3)
         print(42 + 3)
         print(52 + 3)
+        
+        calculate()
+    }
+    
+    
+    func calculate() {
+        print("mfkdlsmfs;l")
     }
 
 
