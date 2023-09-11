@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         print(52 + 3)
         
         calculate()
+        
+        print("")
     }
     
     
